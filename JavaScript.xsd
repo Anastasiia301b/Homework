@@ -16,3 +16,19 @@ else if (age >5 && age <=100){
 else {
 	console.log (age+"роки");
 }
+
+
+
+
+
+
+
+
+<!-- 
+let kg=1;
+let ConvertKgToGram=kg*1000;
+console.log(kg+ 'кілограм це'+ ConvertKgToGram + 'грам');
+
+<!-- <!-- let m = 10000;
+let resultKm = m / 1000;
+console.log(resultKm+ 'кілометрів це' + m + 'метрів'); --> -->
